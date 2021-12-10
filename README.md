@@ -9,6 +9,10 @@ Este es el repositorio para los recursos de las clases de bioinformática G1
 -Git
 -Python
 -R
+  - Tipos de datos 
+  - Manipulacion de datos 
+  - visualizacion de datos
+  - estadistica
 
 ## VIDEOS DE SESIONES SINCRONICAS
 -Introduccion
