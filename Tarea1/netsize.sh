@@ -1,2 +1,3 @@
-# Ejericcio 1.10.3 parte 1
-  ## Codifcación
+# Ejercicio 1.10.3 parte 1
+  ## Comandos
+  
