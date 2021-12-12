@@ -1,3 +1,5 @@
 # Ejercicio 1.10.3 parte 1
-  - Escriba un scrip que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas).
+  - Escriba un scrip que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea.
+  # Comandos
+  
   
