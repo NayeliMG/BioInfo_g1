@@ -1,2 +1,4 @@
 # Ejercicio 1.10.3 parte 2
   - Escribir  un scrip que imprima el número de filas y columnas de cada red.
+ # Hacemos uso del comando "for"
+   - Un bucle "for" permite repetir una tarea con ligeras variaciones, generalmente si son tareas idénticas para varios archivos o cuando se desea proporcionar diferentes argumentos de entrada para el mismo comando.
