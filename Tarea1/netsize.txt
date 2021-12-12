@@ -1,5 +1,7 @@
 # Ejercicio 1.10.3 parte 1
   - Escriba un scrip que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas). Tenga en cuenta que las columnas están separadas por espacios y que hay un espacio al final de cada línea.
   # Comandos
-  
+  - Para la realización del ejercicio 1.10.3 se utilizará el archivo n5.txt
+   - Para contar el número de columnas se utilizó la instrucción "head"
+     - El comando "head" muestra de modo predetrminado las diez primeras líneas de un archivo. Se puede modificar la opción a las N primeras líneas del archivo con la sintaxis "head -nN".
   
