@@ -4,4 +4,5 @@
   - Para la realización del ejercicio 1.10.3 se utilizará el archivo n5.txt
    - Para contar el número de columnas se utilizó la instrucción "head"
      - El comando "head" muestra de modo predetrminado las diez primeras líneas de un archivo. Se puede modificar la opción a las N primeras líneas del archivo con la sintaxis "head -nN".
-  
+   - Para contar el número de filas se utilizó la instrucción "cat"
+     -El comando "cat" concatena y muestra por la salida estandar el contenido de uno o múltiples archivos.
